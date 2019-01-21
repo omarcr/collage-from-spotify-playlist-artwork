@@ -1,17 +1,17 @@
-# Create your own collage from a spotify playlist artwork!
+# Create your own collage from a Spotify playlist artwork!
 
 Example:
 
 ![Screenshot](collage6.jpg)
 
-This package was created in Python and uses the following librares:
+This package was created in Python and uses the following libraries:
 
 `PIL` https://pillow.readthedocs.io/en/3.0.x/installation.html 
 
 `spotipy` https://spotipy.readthedocs.io/en/latest/#installation 
 
 
-Tested in Python 3 and highly likely to be compatible with previous version.
+Tested in Python 3 and highly likely to be compatible with previous versions.
 # Usage
 
 You need to obtain your `client_id` and `client_secret` keys from your Spotify account. Do it here: https://developer.spotify.com/dashboard/login 
@@ -25,9 +25,12 @@ In the variable `uri_playlist` insert your Spotify playlist public URI in format
 
 Example URI to generate the header of the file: `spotify:user:pni7wap5hz63vkm7171v8ki4t:playlist:5IPFs3X63PmgGnfjqAtO2e`
 
-Finally,  modify the variable `root`  to specify a path where to save the art work images and to save the collage.
+Finally,  modify the variable `root`  to specify a path where to save the artwork images and to save the collage.
 
 Have fun :)
+
+credits to Delimitry for collage rutine:
+https://github.com/delimitry/collage_maker
 
 Made with :heart: at [MIT](http://web.mit.edu/)
 
