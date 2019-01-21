@@ -1,9 +1,10 @@
-# collage-from-spotify-playlist-artwork
-create your own collage from your spotify playlist artwork in Python. Example:
+# Create your own collage from a spotify playlist artwork!
+
+Example:
 
 ![Screenshot](collage6.jpg)
 
-This package uses the following librares:
+This package was created in Python and uses the following librares:
 
 `PIL` https://pillow.readthedocs.io/en/3.0.x/installation.html 
 
