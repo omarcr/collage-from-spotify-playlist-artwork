@@ -20,13 +20,15 @@ Once the keys are obtained, insert them in the `client_credentials_manager` vari
 
 `client_credentials_manager = SpotifyClientCredentials(client_id='client_id',
                                                       client_secret='client_secret')`
-                                                      
-modify the variable `root`  to specify a path where to save the images and create the collage.
-
+                                              
 In the variable `uri_playlist` insert your Spotify playlist public URI in format `spotify:user:X:playlist:X` 
 
 Example URI to generate the header of the file: `spotify:user:pni7wap5hz63vkm7171v8ki4t:playlist:5IPFs3X63PmgGnfjqAtO2e`
 
+Finally,  modify the variable `root`  to specify a path where to save the art work images and to save the collage.
+
 Have fun :)
 
 Made with :heart: at [MIT](http://web.mit.edu/)
+
+Feedback? contact me at [@konet](https://twitter.com/konet)
