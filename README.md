@@ -16,7 +16,7 @@ Tested in Python 3 and highly likely to be compatible with previous version.
 
 You need to obtain your `client_id` and `client_secret` keys from your Spotify account. Do it here: https://developer.spotify.com/dashboard/login 
 
-Once obtained insert the keys in the `client_credentials_manager` variable:
+Once the keys are obtained, insert them in the `client_credentials_manager` variable:
 
 `client_credentials_manager = SpotifyClientCredentials(client_id='client_id',
                                                       client_secret='client_secret')`
