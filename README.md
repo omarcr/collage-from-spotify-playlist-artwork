@@ -23,7 +23,7 @@ Once the keys are obtained, insert them in the `client_credentials_manager` vari
                                               
 In the variable `uri_playlist` insert your Spotify playlist public URI in format `spotify:user:X:playlist:X` 
 
-Example URI used to generate the header of the file: `spotify:user:pni7wap5hz63vkm7171v8ki4t:playlist:5IPFs3X63PmgGnfjqAtO2e`
+Example URI used to generate the header here: `spotify:user:pni7wap5hz63vkm7171v8ki4t:playlist:5IPFs3X63PmgGnfjqAtO2e`
 
 Finally,  modify the variable `root`  to specify a path where to save the artwork images and to save the collage.
 
