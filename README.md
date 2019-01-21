@@ -29,7 +29,7 @@ Finally,  modify the variable `root`  to specify a path where to save the artwor
 
 Have fun :)
 
-credits to Delimitry for collage rutine:
+credits to Delimitry for collage routine:
 https://github.com/delimitry/collage_maker
 
 Made with :heart: at [MIT](http://web.mit.edu/)
